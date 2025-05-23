@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@elzazo/console-messages": "^1.0.1"
+  },
+  "name": "@elzazo/path-utils",
+  "version": "1.0.0",
+  "description": "Path utils",
+  "main": "index.js",
+  "author": "elzazo",
+  "license": "ISC"
+}
