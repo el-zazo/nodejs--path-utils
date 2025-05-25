@@ -1,11 +1,14 @@
 {
-  "dependencies": {
-    "@elzazo/console-messages": "^1.0.1"
-  },
   "name": "@elzazo/path-utils",
-  "version": "1.0.0",
-  "description": "Path utils",
+  "version": "1.1.0",
+  "description": "A comprehensive Node.js utility library for file and directory operations with robust error handling",
   "main": "index.js",
+  "scripts": {
+    "examples": "node examples/index.js"
+  },
   "author": "elzazo",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@elzazo/console-messages": "^1.1.0"
+  }
 }
