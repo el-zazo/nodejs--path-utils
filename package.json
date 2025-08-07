@@ -1,0 +1,21 @@
+{
+  "name": "@el-zazo/path-utils",
+  "version": "0.0.1",
+  "description": "A comprehensive Node.js utility library for file and directory operations with robust error handling",
+  "main": "index.js",
+  "scripts": {
+    "examples": "node examples/index.js"
+  },
+  "author": "el-zazo",
+  "license": "ISC",
+  "dependencies": {
+    "@el-zazo/console-messages": "^0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/el-zazo/nodejs--path-utils.git"
+  },
+  "publishConfig": {
+    "@el-zazo:registry": "https://npm.pkg.github.com"
+  }
+}
